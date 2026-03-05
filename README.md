@@ -32,14 +32,17 @@ The application updates content **without refreshing the page** using AJAX.
 
 # Home&login Page
 <img width="2560" height="1440" alt="home login-page png" src="https://github.com/user-attachments/assets/a6c066f4-1549-455e-bb15-c9f07ccf79d5" />
+
+# Upload Page
+<img width="2560" height="1440" alt="upload-page png" src="https://github.com/user-attachments/assets/32e88b39-cae7-4c4a-bf67-bbc411a9d837" />
+
 # Movie search Page
-Movie search-page.png.png
+<img width="2560" height="1440" alt="Movie search-page png" src="https://github.com/user-attachments/assets/8fcf9dd7-8e61-47dc-8c69-b318d09f0b94" />
+
 # Demo Video
 Watch the project demo here:
 
-Demo.mp4 (1).mp4
-
-
+C:\Users\WELCOME\Downloads\Demo.mp4 (1).mp4
 
 # Learning Outcomes
 - Understanding **Single Page Application architecture**
