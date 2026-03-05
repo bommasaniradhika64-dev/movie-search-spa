@@ -13,7 +13,6 @@ The application updates content **without refreshing the page** using AJAX.
 - Movie search functionality
 - Dynamic movie list updates using AJAX
 - Responsive user interface using Bootstrap
-- 
 # Technologies Used
 - HTML
 - CSS
@@ -21,7 +20,6 @@ The application updates content **without refreshing the page** using AJAX.
 - JavaScript
 - jQuery
 - AJAX
-- 
 # How It Works
 1. Admin logs into the system.
 2. Admin uploads movie trailer, poster, keywords, and details.
@@ -39,10 +37,7 @@ The application updates content **without refreshing the page** using AJAX.
 # Movie search Page
 <img width="2560" height="1440" alt="Movie search-page png" src="https://github.com/user-attachments/assets/8fcf9dd7-8e61-47dc-8c69-b318d09f0b94" />
 
-# Demo Video
-Watch the project demo here:
 
-Demo.mp4 (1).mp4
 
 # Learning Outcomes
 - Understanding **Single Page Application architecture**
