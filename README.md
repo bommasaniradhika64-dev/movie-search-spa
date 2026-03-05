@@ -42,7 +42,7 @@ The application updates content **without refreshing the page** using AJAX.
 # Demo Video
 Watch the project demo here:
 
-C:\Users\WELCOME\Downloads\Demo.mp4 (1).mp4
+Demo.mp4 (1).mp4
 
 # Learning Outcomes
 - Understanding **Single Page Application architecture**
