@@ -28,8 +28,6 @@ The application updates content **without refreshing the page** using AJAX.
 3. The form is submitted using "AJAX".
 4. The movie list updates dynamically without refreshing the page.
 
----
-
 # Screenshots
 
 # Home&login Page
@@ -38,7 +36,7 @@ The application updates content **without refreshing the page** using AJAX.
 # Demo Video
 Watch the project demo here:
 
-
+Demo.mp4 (1).mp4
 
 
 
