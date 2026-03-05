@@ -32,7 +32,8 @@ The application updates content **without refreshing the page** using AJAX.
 
 # Home&login Page
 <img width="2560" height="1440" alt="home login-page png" src="https://github.com/user-attachments/assets/a6c066f4-1549-455e-bb15-c9f07ccf79d5" />
-
+# Movie search Page
+Movie search-page.png.png
 # Demo Video
 Watch the project demo here:
 
