@@ -31,7 +31,7 @@ The application updates content **without refreshing the page** using AJAX.
 # Movie search Page
 <img width="2560" height="1440" alt="Movie search-page png" src="https://github.com/user-attachments/assets/8fcf9dd7-8e61-47dc-8c69-b318d09f0b94" />
 # Live Demo
-https://bommasaniradhika64-dev.github.io/movie-search-spa/
+https://movie-search-spa.netlify.app
 # Learning Outcomes
 - Understanding **Single Page Application architecture**
 - Implementing **AJAX for dynamic page updates**
