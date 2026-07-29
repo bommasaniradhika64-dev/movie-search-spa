@@ -1,0 +1,52 @@
+body{
+    background:#000;
+    color:#fff;
+}
+
+.card{
+    background:#fff;
+    color:#000;
+    border:none;
+    border-radius:10px;
+}
+
+.card img{
+    object-fit:cover;
+}
+
+.btn-info{
+    width:100%;
+}
+
+#movieList .card{
+    height:100%;
+}
+
+#movieList h5{
+    font-weight:bold;
+}
+
+#movieList p{
+    font-size:14px;
+}
+
+textarea{
+    resize:none;
+}
+
+input,
+textarea{
+    margin-bottom:10px;
+}
+
+#search{
+    border-radius:8px;
+}
+
+h2{
+    font-weight:bold;
+}
+
+#msg{
+    font-weight:bold;
+}
